@@ -1,8 +1,0 @@
-E:\ВУЗ ПГУ\шарпы\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.exe.config
-E:\ВУЗ ПГУ\шарпы\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.exe
-E:\ВУЗ ПГУ\шарпы\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.pdb
-E:\ВУЗ ПГУ\шарпы\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.AssemblyReference.cache
-E:\ВУЗ ПГУ\шарпы\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.SuggestedBindingRedirects.cache
-E:\ВУЗ ПГУ\шарпы\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.CoreCompileInputs.cache
-E:\ВУЗ ПГУ\шарпы\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.exe
-E:\ВУЗ ПГУ\шарпы\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.pdb
